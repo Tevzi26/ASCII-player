@@ -101,9 +101,9 @@ def start(videotitle=None):
     if choice.lower() == "y":
         url = input("Paste url here!\n")
         try:
+            print("video is downloading")
             youtube = pytube.YouTube(url)
             video = youtube.streams.first()
-            print("video is downloading")
             videotitle = video.title + ".mp4"
             video.download()
         except:
