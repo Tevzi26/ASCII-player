@@ -62,9 +62,10 @@ It's not the best but every star is appreciated.
 
 ### Built With
 
-* [cv2](https://getbootstrap.com)
-* [pyTube](https://jquery.com)
-* [Laravel](https://laravel.com)
+* [openCV](https://opencv.org/)
+* [pyTube](https://pypi.org/project/pytube/)
+* [Pillow](https://python-pillow.org/)
+* [numpy](https://numpy.org/)
 
 
 
@@ -73,14 +74,6 @@ It's not the best but every star is appreciated.
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
