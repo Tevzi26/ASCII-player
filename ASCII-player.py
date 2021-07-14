@@ -3,6 +3,7 @@ import cv2
 import numpy as np
 from PIL import Image
 import pytube
+import time
 
 
 def cls():
@@ -113,6 +114,7 @@ def start(videotitle=None):
         videotitle = input("Type video title here! (Video must be in the same directory as this program!)\n")
 
     print("Video is starting in 5 seconds pres Ctrl + C to stop it")
+    time.sleep(5)
 
     cap = cv2.VideoCapture(videotitle)
 
