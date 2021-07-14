@@ -16,11 +16,9 @@
     <a href="https://github.com/Tevzi26/ASCII-player"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
     <a href="https://github.com/Tevzi26/ASCII-player/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/Tevzi26/ASCII-player/issues">Request Feature</a>
   </p>
 </p>
 
